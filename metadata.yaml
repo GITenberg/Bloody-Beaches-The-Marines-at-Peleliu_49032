@@ -1,10 +1,16 @@
 _repo: Bloody-Beaches-The-Marines-at-Peleliu_49032
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49032-h/images/cover.jpg
 creator:
   author:
     agent_name: Gayle, Gordon D.
     gutenberg_agent_id: '45101'
     url: http://www.gutenberg.org/2009/agents/45101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49032#Bloody-Beaches-The-Marines-at-Peleliu
 gutenberg_issued: '2015-05-23'
 gutenberg_type: Text
 identifiers:
